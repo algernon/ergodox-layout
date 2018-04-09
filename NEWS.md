@@ -8,6 +8,10 @@
 
 * Updated to work with QMK master.
 
+### Miscellaneous
+
+* The `😂` symbol can be entered with UCIS.
+
 ## v1.11
 
 *2017-10-01*
