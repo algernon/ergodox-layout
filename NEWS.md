@@ -11,6 +11,7 @@
 ### Miscellaneous
 
 * The `😂` symbol can be entered with UCIS.
+* `LEAD r` now inputs `Right Alt`.
 
 ## v1.11
 

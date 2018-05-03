@@ -1033,6 +1033,10 @@ void matrix_scan_user(void) {
     }
 #endif
 
+    SEQ_ONE_KEY (KC_R) {
+      ang_tap(KC_RALT, 0);
+    }
+
     SEQ_ONE_KEY (KC_T) {
       time_travel = !time_travel;
     }

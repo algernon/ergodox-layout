@@ -57,6 +57,7 @@ At its core, this is a Dvorak layout, with some minor changes. The more interest
     - `LEAD d` toggles logging keypress positions to the HID console.
     - `LEAD t` toggles time travel. Figuring out the current `date` is left as an exercise to the reader.
     - `LEAD u` enters the [Unicode symbol input](#unicode-symbol-input) mode.
+    - `LEAD r` inputs `Right Alt`, which is the `Compose` key of my choice.
 
 The symbols on the front in the image above have the same color as the key that activates them, with the exception of the **Arrow** layer, which is just black on the front.
 
