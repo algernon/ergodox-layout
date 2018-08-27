@@ -3,7 +3,12 @@
 algernon's layout
 =======================
 
-This is an unconventional layout for the [ErgoDox EZ][ez]. For more details about the history of the layout, see my [blog posts about my ErgoDox journey][blog-ergodox].
+This is the layout I used to use on my [ErgoDox EZ][ez], while I was using [QMK][qmk]. I no longer do so, and this repository is obsolete, and not updated anymore. My current firmware is based on [Kaleidoscope][kaleidoscope], and is located [elsewhere][ergodox-sketch]. I'm keeping the repo around for historical and educational purposes.
+
+ [kaleidoscope]: https://github.com/keyboardio/Kaleidoscope
+ [ergodox-sketch]: https://git.madhouse-project.org/algernon/ErgoDox-sketch
+
+Nevertheless, this is an unconventional layout for the [ErgoDox EZ][ez]. For more details about the history of the layout, see my [blog posts about my ErgoDox journey][blog-ergodox].
 
  [ez]: https://ergodox-ez.com/
  [blog-ergodox]: https://asylum.madhouse-project.org/blog/tags/ergodox/
